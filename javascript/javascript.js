@@ -1,7 +1,11 @@
-
+<html>
+<head>
+<script>
 function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed."
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
+</script>
+</head>
 <body>
 
 <h2>Demo JavaScript in Head</h2>
@@ -11,3 +15,4 @@ function myFunction() {
 <button type="button" onclick="myFunction()">Try it</button>
 
 </body>
+</html> 
